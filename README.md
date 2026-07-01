@@ -63,13 +63,6 @@ Built the Plan-Calendar module from scratch, extended the Route/Template Builder
 
 ---
 
-## 📊 Stats
-
-![Sergey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=skhursevich&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skhursevich&layout=compact&hide_border=true&theme=default)
-
----
-
 ## 📬 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hursevich-sergey/)
